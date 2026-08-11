@@ -1,7 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/davdittrich/davdittrich.r-universe.dev
 	branch = HEAD
-[submodule "robscale"]
-	path = robscale
-	url = https://github.com/davdittrich/robscale
+[submodule "catboostr"]
+	path = catboostr
+	url = https://github.com/davdittrich/catboostr
