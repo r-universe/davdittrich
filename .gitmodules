@@ -5,6 +5,9 @@
 [submodule "catboostr"]
 	path = catboostr
 	url = https://github.com/davdittrich/catboostr
+[submodule "leafblower"]
+	path = leafblower
+	url = https://github.com/davdittrich/leafblower
 [submodule "robscale"]
 	path = robscale
 	url = https://github.com/davdittrich/robscale
